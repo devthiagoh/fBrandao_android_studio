@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+            android:theme="@style/AppTheme">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_home"/>
+    <item
+        android:id="@+id/menu_sobre"
+        android:icon="@drawable/ic_sobre"
+        android:title="@string/menu_sobre" />
+    <item
+        android:id="@+id/menu_servicos"
+        android:icon="@drawable/ic_servicos"
+        android:title="@string/menu_servicos" />
+    <item
+        android:id="@+id/menu_portifolio"
+        android:icon="@drawable/ic_portifolio"
+        android:title="@string/menu_portifolio" />
+    <item
+        android:id="@+id/menu_opinioes_clientes"
+        android:icon="@drawable/ic_opinioes_clientes"
+        android:title="@string/menu_opinioes_clientes" />
+    <item
+        android:id="@+id/menu_orcamentos"
+        android:icon="@drawable/ic_orcamentos"
+        android:title="@string/menu_orcamentos" />
+    <item
+        android:id="@+id/menu_contatos"
+        android:icon="@drawable/ic_contatos"
+        android:title="@string/menu_contatos" />
+</menu>

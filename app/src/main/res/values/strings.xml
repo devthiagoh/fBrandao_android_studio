@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">fBrandao</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar ou Registrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">Senha muito curta!</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="permission_rationale">"As permissões de contatos são necessárias para fornecer
+        finalizações de e-mail."
+    </string>
+
+    <string name="title_editar_servico">Editar Serviço</string>
+    <string name="title_lista_servicos">Serviços</string>
+    <string name="title_activity_menu">fBrandão</string>
+
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <!-- menu_home -->
+    <string name="menu_home">Home</string>
+    <string name="menu_sobre">A Fbrandão</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_portifolio">Portifólio</string>
+    <string name="menu_opinioes_clientes">Opiniões de Clientes</string>
+    <string name="menu_orcamentos">Orçamentos</string>
+    <string name="menu_contatos">Contatos</string>
+
+    <!-- home view 01 -->
+    <string name="intro_home_view_01">Ha mais de 20 anos, simples assim...</string>
+    <string name="texto_home_view_01">Conheça um novo conceito em Agência Digital. Um mundo até
+        agora desconhecido por você. Aqui, seus projetos ganham vida! Vamos conversar?</string>
+
+    <!-- home view 02 -->
+    <string name="intro_home_view_02">Website e e-Commerce Mobile</string>
+    <string name="texto_home_view_02">
+        Você não possui um <b><i>Website</i></b> ou está desatualizado, antigo e sem recursos
+        <b><i>Mobile</i></b> para celular? Aqui na <b>Fbrandão</b> todos os nossos projetos
+        já saem com os melhores recursos que existem. Desenvolvemos em sistema limpo,
+        programação de TAGs para que seja achado pelo Google, recursos Mobile/Responsivo para que seja
+        aberto como um aplicativo em um Smartphone e muito mais. Temos o produto ideal para você.
+        Ajustaremos o orçamento de acordo com suas necessidades. Nosso <b><i>e-Commerce</i></b> ou
+        <b><i>Loja Virtual</i></b> é o mais completo do mercado, com o melhor custo. Sua loja é entregue
+        com 3 formas de pagamento, integração com os Correios, Layout Mobile, e muitos outros recursos
+        só encontrados em grandes Lojas. E ainda, temos um novo e incrível produto, o <b><i>Landing Site
+        Fbrandão</i></b>. Um  Projeto que criamos exclusivamente para atender um mercado especial, de
+        custo reduzido, baixo investimento e rápida entrega. Apenas 5 dias! Consulte nossos consultores
+        no Chat!
+    </string>
+
+    <!-- home view 03 -->
+    <string name="intro_home_view_03">Registro do domínio \ne hospedagem de seu site em minutos</string>
+    <string name="texto_home_view_03">Ainda não tem sua <b><i>empresa registrada</i></b> na Internet
+        como www.suaempresa.com.br? Está perdendo um grande mercado. Aqui você não paga mais caro por isso.
+        Registramos o seu domínio e iniciamos sua hospedagam na hora. No mesmo dia você estará utilizando
+        seus <b><i>e-mails profissionais</i></b>. Você pagará apenas uma pequena taxa mensal de
+        <b><i>suporte</i></b> e mais nada. A <b><i>Fbrandão</i></b> possui um robusto Datacenter para
+        hospedar seu projeto com segurança e rapidez te dando toda assessoria. Nossa equipe dará todo
+        o suporte necessário para que tenha toda tranquilidade e pense somente em suas vendas.</string>
+
+    <!-- home view 04 -->
+    <string name="intro_home_view_04">Aqui seu projeto já sai com \ntodos os melhores recursos
+        exigidos pelo mundo WEB</string>
+    <string name="texto_home_view_04">Já ouviu falar que o Google já está dando prioridade na busca
+        para <b><i>Websites</i></b> com recursos <b><i>Mobile</i></b>? Aqui todos os nossos projetos,
+        desde os mais simples, já saem com este recurso. Seu <b><i>Site</i></b> vai abrir adaptado em
+        um Smartphone como se fosse um Aplicativo de verdade, com ícone e tudo. Além disso nossos projetos
+        são construídos com as melhores ferramentas que existem. Nossos códigos são limpos e leves. Nossa
+        equipe é altamente especializada.</string>
+
+    <!-- home view 05 -->
+    <string name="intro_home_view_05">Já possui uma Marca moderna \ne uma Identidade Visual adequada?</string>
+    <string name="texto_home_view_05">Ha mais de 20 anos atuando na área de Design e Identidade Visual, e mais
+        de <b><i>1200 Marcas criadas</i></b>, somos mais do que especializados neste tipo de projeto. Sua Marca
+        ou Logo ou Logotipo, que são a mesma coisa, será feita com um estudo detalhado por um profissional formado
+        e especializado, em apenas alguns dias. Você receberá um questionário, onde poderá sugerir todas as suas
+        necessidades e contar a história de seu negócio, assim, iremos preprar uma Marca adequada e sua empresa,
+        produto ou negócio, terá um visual moderno como o das grandes Marcas mundiais. Além de sua nova marca,
+        criaremos um manual de aplicação e toda sua comunicação visual, harmonizando seu projeto adequadamente.
+        Sua empresa irá se destacar com uma Marca de alta qualidade. Consulte-nos! Temos o menor custo do mercado
+        com a qualidade que oferecemos.</string>
+
+    <!-- home view 06 -->
+    <string name="intro_home_view_06">Criação de material gráfico</string>
+    <string name="texto_home_view_06_part_one">Além de projetos para WEB, somos especializados em <b><i>Design Gráfico Edição e Retoque de imagens e Diagramação de publicações.</i></b></string>
+    <string name="texto_home_view_06_part_two">Desenvolvemos todo o material gráfico, institucional ou promocional como <b><i>Folders, Embalagens, Flyers, Catálogos, Selos, Revistas e Jornais, Banners, e-Mailmarketing e artes gráficas</i></b> em geral.</string>
+    <string name="texto_home_view_06_part_three">Todos os projetos são adequados para impressão gráfica ou digital. Temos parcerias com fornecedores para que sua impressão saia com o menor custo do mercado. Nossa meta é fazer você economizar.</string>
+
+    <!-- home view 07 -->
+    <string name="intro_home_view_07">Logo + Comunicação Visual \n+ Website Mobile + Hospedagem</string>
+    <string name="texto_home_view_07">Está abrindo um novo negócio ou quer dar uma reformulada total no que
+        tem atualmente? A Agência Fbrandão tem a solução ideal para você, sua empresa, consultório, comércio ou
+        escritório. Oferecemos descontos incríveis em pacotes especiais All Incluse. Tudo o que sua empresa precisa
+        para se destacar no mercado. Consulte-nos. Montaremos o pacote promocional com a sua cara. Do seu jeito.
+        Com o orçamento ajustado ao seu bolso. Fechando pacotes, tenha ainda uma consultoria e um suporte de Marketing,
+        com profissional realmente formado.</string>
+
+    <!-- home view 08 -->
+    <string name="intro_home_view_08">Assessoria Especial \ne contrato fixo que só a Fbrandão pode te oferecer</string>
+    <string name="texto_home_view_08">Sua empresa tem muita demanda de arte? Precisa de uma Assessoria fixa?
+        A <b><i>Fbrandão</i></b> possui o contrato fixo mais em conta do mercado. Pagando uma pequena taxa mensal,
+        sua empresa terá uma Agência completa à disposição para desenvolver suas demandas em <b><i>Marca, artes gráficas,
+            peças publicitárias, fotos, marketing digital e redes sociais, fotografias, website, estratégias, comunicação,
+            promoção</i></b> e muito mais. Só a <b><i>Fbrandão</i></b> consegue oferecer um produto como este.</string>
+
+    <!-- home view 09 -->
+    <string name="intro_home_view_09">Fotografia Express para sua empresa</string>
+    <string name="texto_home_view_09">Está precisando de boas fotografias de sua empresa, consultório, escritório,
+        comércio, produto, indústria e não quer pagar caro por isso? Temos a solução ideal para você. Pelo menor custo
+        do mercado, iremos até você e faremos suas imagens, especialmente para seu site, sem frescura, com baixo custo,
+        rápido e fácil. Além de fotografias, lançamos o serviço de vídeo. Filmamos, editamos, inserimos locução, audio e
+        entregamos seu vídeo institucional em poucos dias.</string>
+
+    <!-- home view 10 -->
+    <string name="intro_home_view_10">Marketing Digital | Social Media</string>
+    <string name="texto_home_view_10">Além de nossos produtos e serviços tradicionais, temos profissionais certificados
+        para dar toda a assessoria para serviços complementares para que sua empresa seja encontrada da forma correta:
+        Desenvolvimento de Conteúdo para seu Site, <b><i>Cadastramento no Google, Assessoria no Google Analytics</i></b>,
+        Ajuste e Análise de SEO/Otimização de busca de seu site no Google com acompanhamento por 12 meses, Assessoria em
+        Anúncios no <b><i>Google Adwords e Facebook Ads</i></b>, <b><i>Criação de Fanpages</i></b>, Assessoria de Likes e
+        muito mais. Enfim, a <b><i>Fbrandão</i></b> é uma verdadeira <b><i>Agência WEB</i></b> pronta para atender toda a
+        sua demanda de forma simples e direta. Não compre idéias de profissionais não qualificados. Peça mais informações.
+    </string>
+
+    <!-- home view 11 -->
+    <string name="intro_home_view_11_part_one">Seja encontrado facilmente</string>
+    <string name="texto_home_view_11_part_one">O Google permite que você se conecte diretamente com os seus clientes, que podem
+        estar procurando você na Pesquisa do <b><i>Google, no Maps ou no Google Plus.</i></b>Forneça aos clientes as informações
+        certas na hora certa: rotas de direção para chegar até sua empresa no Google Maps, o horário de funcionamento na Pesquisa
+        do Google ou um número de telefone no qual clicar e ligar para você em dispositivos móveis.
+    </string>
+    <string name="intro_home_view_11_part_two">Seu cadastro no Google</string>
+    <string name="texto_home_view_11_part_two">O Google Meu Negócio ajuda a construir uma base de fãs leais. Os clientes podem expressar a
+        satisfação com avaliações e comentários, usar o botão +1 para endossar o conteúdo e compartilhar suas postagens no Google+
+        em toda a Web. Faremos todo este cadastro de forma correta para você. Cadastraremos sua empresa, sua marca, suas fotos e
+        localização e você fará parte do mundo Google.
+    </string>
+
+    <!-- home view 12 -->
+    <string name="intro_home_view_12">Seu cadastro no Google</string>
+    <string name="texto_home_view_12">O Google Meu Negócio ajuda a construir uma base de fãs leais. Os clientes podem expressar a
+        satisfação com avaliações e comentários, usar o botão +1 para endossar o conteúdo e compartilhar suas postagens no Google+
+        em toda a Web. Faremos todo este cadastro de forma correta para você. Cadastraremos sua empresa, sua marca, suas fotos e
+        localização e você fará parte do mundo Google.
+    </string>
+</resources>
